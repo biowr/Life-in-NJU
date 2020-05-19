@@ -12,7 +12,7 @@
       </v-icon>
       <v-icon
         class="shareLink"
-        data-clipboard-text="https://nju.today"
+        data-clipboard-text="https://www.ruiprime.com"
         @click="share"
       >
         mdi-open-in-new
