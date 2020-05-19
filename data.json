@@ -7,7 +7,7 @@
                 "name": "宿舍宽带登录",
                 "link": "http://10.160.63.9/",
                 "description": "初始账户学工号，初始密码身份证"
-            },
+            }
             
         ]
     },
@@ -25,7 +25,7 @@
                 "name": "校园卡网络自助服务系统",
                 "link": "https://sourl.cn/Ca9cfQ",
                 "description": "（需要校园网）查看校园卡信息，可以下载校园卡黑照"
-            },
+            }
         ]
     },
     {
@@ -57,7 +57,7 @@
                 "name": "SCI-HUB",
                 "link": "https://sourl.cn/Kxkqm6",
                 "description": "外文文献下载神器"
-            },
+            }
         ]
     },
     {
@@ -84,7 +84,7 @@
                 "name": "专业软件",
                 "link": "https://biowr.gitee.io/tools.html",
                 "description": "文献下载管理、数据处理、图形处理、Adobe全家桶"
-            },
+            }
             
            
         ]
@@ -96,7 +96,7 @@
                 "name": "招标办公室",
                 "link": "http://sbzb.usts.edu.cn/news/news_more.asp?lm2=3",
                 "description": "来看看学校最近又买了啥~"
-            },
+            }
         ]
     },
     {
@@ -117,7 +117,7 @@
                 "name": "讨论群",
                 "link": "https://sourl.cn/AtY5nh",
                 "description": "加入讨论群提出意见建议！"
-            },
+            }
         
         ]
     },
